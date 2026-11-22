@@ -9,6 +9,7 @@
 	"description": "Detaches the top bar, navigation rail, main viewport, and right sidebar into rounded floating islands with customizable corner radius and accent border.",
 	"homepage": "https://github.com/Everelsu/Noctrinth-Floating-Bars",
 	"repository": "https://github.com/Everelsu/Noctrinth-Floating-Bars",
+	"banner": "preview.jpg",
 	"tags": ["theme", "floating", "minimal", "layout"],
 	"styles": ["theme.css"],
 	"settings": [
